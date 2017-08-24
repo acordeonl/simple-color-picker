@@ -1,6 +1,6 @@
 {
   "name": "simple-color-picker",
-  "version": "0.0.1",
+  "version": "2.0.0",
   "description": "A Polymer simple color picker element",
   "authors": [
     "Andrey Stelmashenko"
@@ -11,16 +11,7 @@
     "color",
     "picker"
   ],
-  "main": [
-    "simple-color-picker.html"
-  ],
   "ignore": [],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/astelmashenko/simple-color-picker.git"
-  },
-  "license": "http://opensource.org/licenses/MIT",
-  "homepage": "https://github.com/astelmashenko/simple-color-picker",
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.0"
   }
