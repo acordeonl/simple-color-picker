@@ -1,6 +1,5 @@
 {
   "name": "simple-color-picker",
-  "version": "2.0.0",
   "description": "A Polymer simple color picker element",
   "authors": [
     "Andrey Stelmashenko"
@@ -11,7 +10,6 @@
     "color",
     "picker"
   ],
-  "ignore": [],
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.0"
   }
